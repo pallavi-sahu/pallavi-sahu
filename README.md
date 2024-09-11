@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pallavi Sahu</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img aling="left" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif"></img>
-<div align="right">
+
 - 🌱 I’m currently learning and working with **Node.js**
 - 👨‍💻 All of my projects are available at [https://pallavi-sahu.github.io/PortFolio/](https://pallavi-sahu.github.io/PortFolio/)
 - 📫 How to reach me **pallavisahu0610@gmail.com**
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
