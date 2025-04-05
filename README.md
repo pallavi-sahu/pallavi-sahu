@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pallavi Sahu</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate software developer</h3>
 <img aling="left" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif"></img>
 
 - 🌱 I’m currently learning and working with **Node.js**
